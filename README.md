@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-KNMI Royal Netherlands Meteorological Institute is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.knmi.nl/
+The Royal Netherlands Meteorological Institute (KNMI) is the Dutch national weather service, providing weather forecasts, climate data, and seismology information. It operates as a public research institute, delivering data and expertise to government, businesses, and the public. The KNMI offers APIs for weather observations, forecasts, climate statistics, and earthquake data, supporting applications in agriculture, aviation, emergency management, and scientific research.
+
+**Areas:** Company · Weather · Climate · Seismology · Data
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.knmi.nl/)
+- [Privacy policy](https://www.knmi.nl/privacy)
+- [GitHub](https://github.com/KNMI)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/knmi-royal-netherlands-meteorological-institute/](https://apis.io/providers/knmi-royal-netherlands-meteorological-institute/).
